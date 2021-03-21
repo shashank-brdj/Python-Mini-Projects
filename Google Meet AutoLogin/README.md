@@ -1,6 +1,6 @@
 # Read Me!!
 
-> Welcome to the readme, take your time to read everyhing and you should have no problems.
+> Welcome to the readme, take your time to read everything and you should have no problems.
 
 ---
 
@@ -61,7 +61,7 @@ FOR OTHERS, FOLLOW THE BELOW STEPS.
 
 MIT License
 
-Copyright (c) [2021] [ Shashank Bharadwaj S ]
+Copyright (c) [ 2021 ] [ Shashank Bharadwaj S ]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
